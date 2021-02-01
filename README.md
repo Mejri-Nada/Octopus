@@ -1,2 +1,2 @@
-# Sea_Journey
+# study_abroad
 Mini Projet Web LGLSI2

@@ -1,0 +1,55 @@
+Description:
+
+  IDEE:
+  		Une idée qui a été soigneusement choisie afin de 
+	fournir aux utilisateurs un accès facile, rapide et efficace à 
+	toutes les informations dont ils auront besoin dans leurs processus
+	d'étude à l'étranger (dans leurs pays de rêves).
+
+
+  POURQUOI?
+		basé sur notre expérience personnelle sur ce propos, on a 
+	eu du mal a tous terminer .. notre application d'inscription, 
+	même pas le choix de l'université elle méme et c'était une cause 
+	du défaut des informations c'est pour cela qu'on a penser a 
+	fournir ce service aux étudiants qu'ils aurants besoin et qui 
+	souhaitent construire un future a l'etranger suivant un processus 
+	plus facile.
+  COMMENT FAIRE?
+		L'interface présente à l'utilisateur une variété d'options
+	dont il peut se bénéficier, contenant comme une fonctionalité 
+	principale de choisir une université à laquelle il postulera. un simple
+	clic sur le bouton "uni" dans la barre de navigation ouvrira une page 
+	présentant de nombreuses universitées que l’utilisateur pourra trier ou
+	filtrer en fonction de ses besoins personnels: pays, moyenne ou 
+	spécialité souhaitée avec une simple coche sur l'option souhaité pour 
+	chacun. 
+	Quand il choisira finalement une université, il sera transféré 
+	directement a une autre page contenant plus d'informations y compris un bouton 
+	"s'inscrire" qui n'apparaîtera que lorsque l'utilisateur soit connecté au site
+	à travers "log in" ou "sign up" s'il n'a pas encore un compte. En outre, il y 
+	aura une diapositive affichant les magasins à proximité - tels que les centres 
+	commerciaux, les supermarchés, les cafés, les restaurants ainsi que les 
+	hôpitaux - dont l'utilisateur pourrait avoir besoin en cas 
+	d'inscription dans cette université. Tous ceci afin de lui fournir un aperçu 
+	le plus précis possible de sa nouvelle vie, espèrant-la, passionnante.
+
+		l'utilisateur peut également nous connaître d'avantage en 
+	cliquant sur «About us» situé dans la barre de navigation 
+	et il peut aussi connaître les nouveautés qui se produisent dans 
+	le monde en cliquant sur «Beyond».
+		
+		une autre fonctionalité de consulter la liste des bources disponibles sera 
+	realisée par un click sur l'option "bources" aussi située dans la navbar au dessus 
+	de la page d'acceuil .
+
+		la page d'accueil contiendra des informations motivantes pour les étudiants 
+	comme par exemple une liste des proffesseurs universitaires célébres au mondes dans 
+	les années recentes -qui enseignent en même temps dans les universités proposées-
+	accompagnés des informations relatives à chacun.
+	On peut aussi y trouver les moyens pour nous contacter soit via: Instagram, Facebook
+	Discord, Twitter, Email ou numéro du téléphone.
+
+		Afin d'améliorer nos fonctionalités, l'utilisateur peut nous donner son 
+	opinion sur la qualité des services de notre site web en connectant au site avec 
+	son compte et écrire un commentaire au dessous de la page.

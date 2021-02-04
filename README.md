@@ -1,2 +1,2 @@
-# study_abroad
+# Octopus
 Mini Projet Web LGLSI2
